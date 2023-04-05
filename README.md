@@ -18,19 +18,11 @@ The final implementation would look something like this:
 <img src = "https://user-images.githubusercontent.com/94699627/230158598-6b008fff-e858-4c7f-ba47-46273134c185.jpg">
 </p>
 
-
-## Decode
-
-<br>
-<p align = "center">
-<img src = "https://user-images.githubusercontent.com/94699627/223841685-dd6c0ac6-882f-4584-b9a5-0907f43a66fc.png" witdth="680" height="536">
-</p>
-
 dummy:
 - dummy
 
 
-// <br>
-// <p align = "center">
-// <img src = "https://user-images.githubusercontent.com/94699627/223844681-90b55f97-9fda-463e-9b91-6c239affee09.png">
-// </p>
+[]: # <br>
+[]: # <p align = "center">
+[]: # <img src = "https://user-images.githubusercontent.com/94699627/223844681-90b55f97-9fda-463e-9b91-6c239affee09.png">
+[]: # </p>
