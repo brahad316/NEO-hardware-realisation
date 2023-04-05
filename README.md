@@ -22,7 +22,7 @@ dummy:
 - dummy
 
 
-[] : # <br>
-[] : # <p align = "center">
-[] : # <img src = "https://user-images.githubusercontent.com/94699627/223844681-90b55f97-9fda-463e-9b91-6c239affee09.png">
-[] : # </p>
+[//] : # <br>
+[//] : # <p align = "center">
+[//] : # <img src = "https://user-images.githubusercontent.com/94699627/223844681-90b55f97-9fda-463e-9b91-6c239affee09.png">
+[//] : # </p>
