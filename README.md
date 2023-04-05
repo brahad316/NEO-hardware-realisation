@@ -18,11 +18,4 @@ The final implementation would look something like this:
 <img src = "https://user-images.githubusercontent.com/94699627/230158598-6b008fff-e858-4c7f-ba47-46273134c185.jpg">
 </p>
 
-dummy:
-- dummy
-
-
-[//] : # <br>
-[//] : # <p align = "center">
-[//] : # <img src = "">
-[//] : # </p>
+`under progress`
