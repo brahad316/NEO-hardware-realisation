@@ -34,4 +34,13 @@ The final implementation would look something like this:
 
 - using AD633 IC.
 
+## Outputs of blocks
+
+### differentiator
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![image](https://user-images.githubusercontent.com/94699627/230908154-e828c068-918c-4482-9f05-0d52e6b4e428.png) | ![image](https://user-images.githubusercontent.com/94699627/230908239-19871eec-cca0-460e-932c-a27fa72392cc.png)
+
+
 `... work in progress`
