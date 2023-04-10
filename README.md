@@ -19,3 +19,19 @@ The final implementation would look something like this:
 </p>
 
 `... under progress`
+
+## rough logs
+
+### differentiator block succeeded by inverter
+![image](https://user-images.githubusercontent.com/94699627/230831451-1d918f86-24fa-4e5a-bbeb-3f52bcaaa068.png)
+
+- The differentiator gives inverted output, being corrected by cascading an active inverter.
+
+### double differentiator
+![image](https://user-images.githubusercontent.com/94699627/230831511-6e8e4771-2d05-40df-9666-1b74ea0cfce5.png)
+- made by cascading two differentiators.\
+
+### multiplier
+![image](https://user-images.githubusercontent.com/94699627/230831649-dd998096-bda9-4e2f-962a-30b93339a646.png)
+
+- using AD633 IC.
