@@ -18,8 +18,6 @@ The final implementation would look something like this:
 <img src = "https://user-images.githubusercontent.com/94699627/230158598-6b008fff-e858-4c7f-ba47-46273134c185.jpg">
 </p>
 
-`... under progress`
-
 ## rough logs
 
 ### differentiator block succeeded by inverter
@@ -29,9 +27,11 @@ The final implementation would look something like this:
 
 ### double differentiator
 ![image](https://user-images.githubusercontent.com/94699627/230831511-6e8e4771-2d05-40df-9666-1b74ea0cfce5.png)
-- made by cascading two differentiators.\
+- made by cascading two differentiators.
 
 ### multiplier
 ![image](https://user-images.githubusercontent.com/94699627/230831649-dd998096-bda9-4e2f-962a-30b93339a646.png)
 
 - using AD633 IC.
+
+`... work in progress`
