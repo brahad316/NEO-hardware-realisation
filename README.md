@@ -38,9 +38,10 @@ The final implementation would look something like this:
 
 ### differentiator
 
-Solarized dark             |  Solarized Ocean
+input (square wave)        |  output 
 :-------------------------:|:-------------------------:
-![image](https://user-images.githubusercontent.com/94699627/230908154-e828c068-918c-4482-9f05-0d52e6b4e428.png) | ![image](https://user-images.githubusercontent.com/94699627/230908239-19871eec-cca0-460e-932c-a27fa72392cc.png)
+![image](https://user-images.githubusercontent.com/94699627/230908579-9bcff140-90fc-4813-b82f-43208d96df50.png) | ![image](https://user-images.githubusercontent.com/94699627/230908428-91520685-4134-41f5-a752-7d0c16ae6bc7.png)
+
 
 
 `... work in progress`
