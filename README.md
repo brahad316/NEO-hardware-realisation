@@ -45,6 +45,7 @@ input (square wave)        |  output
 ### Multiplier
 
 inputs: red and blue | outputs: green
+--- | ---
 ![image](https://user-images.githubusercontent.com/94699627/230910563-63c64e86-b0a9-40f4-9c2a-eec9ddd5fc0d.png) |
 
 
