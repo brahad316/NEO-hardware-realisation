@@ -49,5 +49,10 @@ outputs: green
 ```
 ![image](https://user-images.githubusercontent.com/94699627/230910563-63c64e86-b0a9-40f4-9c2a-eec9ddd5fc0d.png) 
 
+## Output of v3 (latest) circuit:
+
+![image](https://user-images.githubusercontent.com/94699627/230988708-e9d3f767-67c9-4734-bfdb-9c560a62fb03.png)
+
+`Input is a triangular wave superimposed with thermal noise`
 
 `... work in progress`
