@@ -36,12 +36,16 @@ The final implementation would look something like this:
 
 ## Outputs of blocks
 
-### differentiator
+### Differentiator
 
 input (square wave)        |  output 
 :-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/94699627/230908579-9bcff140-90fc-4813-b82f-43208d96df50.png) | ![image](https://user-images.githubusercontent.com/94699627/230908428-91520685-4134-41f5-a752-7d0c16ae6bc7.png)
 
+### Multiplier
+
+inputs: red and blue | outputs: green
+![image](https://user-images.githubusercontent.com/94699627/230910563-63c64e86-b0a9-40f4-9c2a-eec9ddd5fc0d.png) |
 
 
 `... work in progress`
