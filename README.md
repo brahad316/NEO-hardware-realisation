@@ -22,21 +22,21 @@ The final implementation would look something like this:
 
 ### differentiator block succeeded by inverter
 <p align = "center">
-![image](https://user-images.githubusercontent.com/94699627/230831451-1d918f86-24fa-4e5a-bbeb-3f52bcaaa068.png)
+<img src = "https://user-images.githubusercontent.com/94699627/230831451-1d918f86-24fa-4e5a-bbeb-3f52bcaaa068.png">
 </p>
 
 - The differentiator gives inverted output, being corrected by cascading an active inverter.
 
 ### double differentiator
 <p align = "center">
-![image](https://user-images.githubusercontent.com/94699627/230831511-6e8e4771-2d05-40df-9666-1b74ea0cfce5.png)
+<img src = "https://user-images.githubusercontent.com/94699627/230831511-6e8e4771-2d05-40df-9666-1b74ea0cfce5.png">
 </p>
 
 - made by cascading two differentiators.
 
 ### multiplier
 <p align = "center">
-![image](https://user-images.githubusercontent.com/94699627/230831649-dd998096-bda9-4e2f-962a-30b93339a646.png)
+<img src = "https://user-images.githubusercontent.com/94699627/230831649-dd998096-bda9-4e2f-962a-30b93339a646.png">
 </p>
 
 - using AD633 IC.
@@ -55,12 +55,12 @@ inputs: red and blue
 outputs: green
 ```
 <p align = "center">
-![image](https://user-images.githubusercontent.com/94699627/230910563-63c64e86-b0a9-40f4-9c2a-eec9ddd5fc0d.png) 
+<img src = "https://user-images.githubusercontent.com/94699627/230910563-63c64e86-b0a9-40f4-9c2a-eec9ddd5fc0d.png">
 </p>
 
 ## Output of v3 (latest) circuit:
 <p align = "center">
-![image](https://user-images.githubusercontent.com/94699627/230988708-e9d3f767-67c9-4734-bfdb-9c560a62fb03.png)
+<img src = "https://user-images.githubusercontent.com/94699627/230988708-e9d3f767-67c9-4734-bfdb-9c560a62fb03.png">
 </p>
 
 `Input is a triangular wave superimposed with thermal noise`
