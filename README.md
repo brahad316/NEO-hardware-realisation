@@ -71,6 +71,6 @@ So far I'm done with implementing the differentiator and double differentiator b
 
 differentiator   |  double differentiator 
 :-------------------------:|:-------------------------:
-![image](https://user-images.githubusercontent.com/94699627/231480992-78544633-2ccd-4195-8b58-e79302acc125.png) | ![image](https://user-images.githubusercontent.com/94699627/231481093-066f9e11-cd69-4384-a8e0-8c33532250aa.png)
+![image](https://user-images.githubusercontent.com/94699627/231481374-328587b3-a481-49eb-88b4-74c6dcfff375.png) | ![image](https://user-images.githubusercontent.com/94699627/231481093-066f9e11-cd69-4384-a8e0-8c33532250aa.png)
 
 `... work in progress`
