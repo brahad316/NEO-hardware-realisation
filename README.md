@@ -73,4 +73,8 @@ differentiator   |  double differentiator
 :-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/94699627/231481374-328587b3-a481-49eb-88b4-74c6dcfff375.png) | ![image](https://user-images.githubusercontent.com/94699627/231481093-066f9e11-cd69-4384-a8e0-8c33532250aa.png)
 
+<p align = "center">
+<img src="https://user-images.githubusercontent.com/94699627/232205608-607d4f46-d497-4cee-ae5c-579dc68195fd.png">
+</p>
+
 `... work in progress`
