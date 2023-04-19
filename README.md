@@ -73,9 +73,22 @@ differentiator   |  double differentiator
 :-------------------------:|:-------------------------:
 ![image](https://user-images.githubusercontent.com/94699627/231481374-328587b3-a481-49eb-88b4-74c6dcfff375.png) | ![image](https://user-images.githubusercontent.com/94699627/232885079-14713c40-a9fb-4c03-af8e-8230e13a1415.png)
 
-
+### Circuit in Multisim
+This is the schematic that is being used for testing in simulation. 
 <p align = "center">
 <img src="https://user-images.githubusercontent.com/94699627/232205608-607d4f46-d497-4cee-ae5c-579dc68195fd.png">
+</p>
+
+
+`Differentiator block cascaded with inverter works`
+`sine becomes cosine`
+<p align = "center">
+<img width="549" alt="image" src="https://user-images.githubusercontent.com/94699627/232988632-c9772f79-937c-48b7-97e6-281175895366.png">
+</p>
+
+`The multiplier works too. sine gets squared (notice how the freq is doubled).`
+<p align = "center">
+<img width="590" alt="image" src="https://user-images.githubusercontent.com/94699627/232989270-83c10b27-54ae-4454-be50-54308715387e.png">
 </p>
 
 `... work in progress`
